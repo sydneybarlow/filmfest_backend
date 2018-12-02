@@ -13,3 +13,5 @@ Inside of the movies cards at the bottom that display the movies that are being 
 There are three models - Movies, Tickets and Events. 
 
 In this example, Tickets are the single source of truth and Movies and Events are related to each other through Tickets. 
+
+Open the index.html inside of your browser to see the app. Also run 'rails s' with the backend portion of this project to get it to work.
